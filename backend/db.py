@@ -4,7 +4,7 @@ def get_conn():
         host="localhost",
         user="root",
         password="Pass123!",
-        database="AI_WORKSHOP",
+        database="test_ninja",
         cursorclass= pymysql.cursors.DictCursor
     )
 
