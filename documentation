@@ -1,0 +1,19 @@
+prompt evalation steps are 
+draft a base prompt
+create questions dataset
+feed it to llm
+feed both question and reply to grader
+change the prompt and continue
+
+
+prompt engineering is a way to get the desired output feom the llm
+
+Be clear and direct
+be specific -> guidelines
+provide steps if needed
+use xml tags
+<my_code>
+code ..
+</my_code>
+
+provide examples -> one-shot or multi shot examples..
